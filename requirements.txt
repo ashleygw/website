@@ -7,3 +7,4 @@ flask-wtf
 jwt
 python-dotenv
 flask-bootstrap
+flask-moment
